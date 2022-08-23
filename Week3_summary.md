@@ -1,4 +1,4 @@
-## Week 3 Summary 
+# Week 3 Summary 
 
 ### 키워드 
 - 선형대수(Linear Algebra): 스칼라(scalar), 벡터(vector), 행렬(matrix) 
